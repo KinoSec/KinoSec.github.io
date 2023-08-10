@@ -1,3 +1,9 @@
+---
+title: Vulnlabs - Feedback
+date: 2023-08-10 
+categories: [WriteUps]
+tags: [writeups] [vulnlabs]   # TAG names should always be lowercase
+---
 # Vulnlab: Feedback
 
 `Difficulty:` Easy
