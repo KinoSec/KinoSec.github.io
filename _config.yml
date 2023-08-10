@@ -73,7 +73,7 @@ theme_mode: dark # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://github.com/KinoSec/KinoSec.github.io/blob/05fc7914f123778bbdfac05418589c16053a0c60/"
+#img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "avatar.jpg"
