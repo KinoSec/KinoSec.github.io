@@ -1,9 +1,9 @@
 ---
-title: Vulnlabs Feedback
+title: Vulnlab Feedback
 author: kino
 date: 2023-08-10 00:34:00 +0800
 categories: [Vulnlab]
-tags: [vulnlabs, writeups]
+tags: [vulnlab, writeup]
 ---
 # Vulnlab: Feedback
 
