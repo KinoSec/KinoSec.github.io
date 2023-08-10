@@ -1,8 +1,9 @@
 ---
-title: Vulnlabs - Feedback
-date: 2023-08-10 
-categories: [WriteUps]
-tags: [writeups] [vulnlabs]   # TAG names should always be lowercase
+title: Vulnlabs Feedback
+author: kino
+date: 2023-08-10 00:34:00 +0800
+categories: [Tutorial]
+tags: [vulnlabs, writeups]
 ---
 # Vulnlab: Feedback
 
