@@ -1,7 +1,7 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About Me
+author: kino
+date: 2023-08-10 00:34:00 +0800
 ---
 
 # About Me
