@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 author: kino
 date: 2023-08-10 00:34:00 +0800
 ---
